@@ -1,5 +1,5 @@
-👋 Hi, I’m @samyakranjan
-👀 I’m interested in engineering great software
+### Hi, I’m @samyakranjan 👋
+### I’m interested in engineering software to make your life easy
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
